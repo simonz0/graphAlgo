@@ -1,0 +1,8 @@
+public_input0
+public_input1
+public_input2
+public_input3
+public_input4
+public_input5
+public_input6
+public_input7
